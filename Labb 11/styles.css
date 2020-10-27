@@ -1,6 +1,7 @@
 #output {
     height: 300px;
     width: 300px;
+    background-color: salmon;
 }
 #output2 {
     height: 255px;
