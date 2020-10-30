@@ -10,5 +10,5 @@
 
     function myFunction(){
         var x = document.getElementById("myTopnav");
-        x.className.toggle("responsive");
+        x.classList.toggle("responsive");
     }
